@@ -1,7 +1,10 @@
 h1{
-  color: blue; font-family:'Times New Roman', Times, serif; line-height: 45px; text-align: center;
+  color: dodgerblue; font-family:'Times New Roman', Times, serif; line-height: 45px; text-align: center;
 }
 h2{
-  color: blueviolet; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; text-align: center
+  color: mediumseagreen; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; text-align: center
+}
+body{
+  background-color: lightblue; font-size: 55; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
